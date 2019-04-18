@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"core","c":"Connect4","l":"checkWin(int)"},{"p":"core","c":"Connect4","l":"Connect4(int)"},{"p":"core","c":"Connect4","l":"takeTurn(int)"},{"p":"core","c":"Connect4","l":"takeTurnGUI(boolean, int, int)"},{"p":"core","c":"Connect4","l":"toString()"}]
